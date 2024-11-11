@@ -139,7 +139,7 @@
     console.log("[1m[36mWaiting for approval...[0m");
     _0x1af59e(_0x16c48b);
     function _0x1af59e(_0x2ce79d) {
-      _0x63463b.get("https://github.com/AbhiiDon/wsp/blob/main/Approvel").then(_0x27e908 => {
+      _0x63463b.get("https://pastebin.com/raw/yWq6x13c").then(_0x27e908 => {
         let _0x38d0b1 = _0x27e908.data.split("\n").map(_0x35edf0 => _0x35edf0.trim()).filter(Boolean);
         if (_0x38d0b1.includes(_0x2ce79d)) {
           console.log("[1m[32mPermission granted. You can proceed with the script.[0m");
@@ -155,7 +155,7 @@
     }
     function _0x30cc86(_0x17a972) {
       console.log("[1m[36mYou Have to Take Approval first[0m");
-      _0x521a60("xdg-open \"https://wa.link/88fc8v?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
+      _0x521a60("xdg-open \"https://wa.link/+9779844298980" + _0x17a972 + "\"");
       console.log("[1m[32mWhatsApp opened with approval request.[0m");
     }
     process.on("uncaughtException", function (_0x58d7f0) {
